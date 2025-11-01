@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\313\\Дидур\\TravelAgency\\WebApplication1\\WebApplication1\\TourismAgency.csproj",
-      "projectName": "TourismAgency",
-      "projectPath": "D:\\313\\Дидур\\TravelAgency\\WebApplication1\\WebApplication1\\TourismAgency.csproj",
+      "projectUniqueName": "D:\\313\\Дидур\\TravelAgency\\WebApplication1\\WebApplication1\\Didur.csproj",
+      "projectName": "Didur",
+      "projectPath": "D:\\313\\Дидур\\TravelAgency\\WebApplication1\\WebApplication1\\Didur.csproj",
       "packagesPath": "D:\\Users\\tmu9.SERVER-ECONOM\\.nuget\\packages\\",
       "outputPath": "D:\\313\\Дидур\\TravelAgency\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
